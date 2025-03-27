@@ -6,4 +6,4 @@ Vorname Nachname <email>
 //Platzhalter
 
 == Einführung
-Dieses Dokument dient im Praktikum als Spielwiese
+Dieses Dokument dient im Praktikum als Spielwiese hb
