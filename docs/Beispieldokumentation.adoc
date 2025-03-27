@@ -1,0 +1,9 @@
+= Beispiel - Dokumentation mit AsciiDoc
+Vorname Nachname <email>
+1.0, 01.09.2019
+:toc:
+:toc-title: Inhaltsverzeichnis
+//Platzhalter
+
+== Einführung
+Dieses Dokument dient im Praktikum als Spielwiese

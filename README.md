@@ -5,4 +5,4 @@ Beispielprojet für die Praktikumsaufgaben zum Thema Git und AsciiDoc
 ein Beispielprojekt für die Praktikumsaufgaben zum Thema Git und AsciiDoc im Fach Software Engineering I
 
 ## Praktikumsinhalt
--Umgang mit **Git**, **AsciiDoc** und **GitHub**
+- Umgang mit **Git**, **AsciiDoc** und **GitHub**
