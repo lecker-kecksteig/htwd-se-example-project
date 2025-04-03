@@ -16,12 +16,12 @@ Dieses Dokument dient im Praktikum als Spielwiese
 
 .Beispiel: unsortierte Liste 
 * Platz 1
-* Platz 2
+** Platz 2
 // Platzhalter
 
 .Beispiel: sortierte Liste
 . Platz 1
-. Platz 2
+.. Platz 2
 // Platzhalter
 
 === 1.2 Tabellen und Textformatierung
