@@ -41,7 +41,7 @@ Dieses Dokument dient im Praktikum als Spielwiese
 **S**__o__ftw__a__r__e__ **E**ng__i__n__ee__`ring`
 
 === 1.3 Quellcode
-.Ergebnis
+==_hello_world.c_
 [source,c]
 ----
 #include <stdio.h>
