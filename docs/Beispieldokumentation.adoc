@@ -54,7 +54,8 @@ int main(int argc, char* argv[])
 ----
 
 === Bilder
-.Screenshot
+.Screenshots
+image::Unbenannt.PNG[]
 :imagesdir: images
 
 
