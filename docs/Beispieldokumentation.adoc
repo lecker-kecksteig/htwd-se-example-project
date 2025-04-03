@@ -25,9 +25,10 @@ Dieses Dokument dient im Praktikum als Spielwiese
 // Platzhalter
 
 === Tabellen und Textformatierung
-.Textformatierunt 
+.Textformatierung
 [cols="1,1,3"]
-|Formatierung |Syntax |fetter Text
+|===
+|Formatierung |Syntax | Beschreibung
 
-|*bold*| `+_italic_+`| kursiver Text
+|*bold*| `+_bold_+`| fetter Text
 
