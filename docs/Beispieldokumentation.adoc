@@ -30,5 +30,7 @@ Dieses Dokument dient im Praktikum als Spielwiese
 |===
 |Formatierung |Syntax | Beschreibung
 
-|*bold*| `+_bold_+`| fetter Text
+|*bold*| `+*bold*+`| fetter Text
+|_italic_ | `+_italic_+`| kursiver Text
+| monospace | `monospace`| text mit fester Laufweite
 
