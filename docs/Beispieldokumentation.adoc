@@ -8,7 +8,7 @@ Vorname Nachname <email>
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese 
 
-== Kennenlernen der Syntax <Name>
+== Kennenlernen der Syntax
 
 Über die Aufgaben wird das Dokument Stück für Stück aufgebaut und angepasst.
 
@@ -23,3 +23,11 @@ Dieses Dokument dient im Praktikum als Spielwiese
 . Platz 1
 . Platz 2
 // Platzhalter
+
+=== Tabellen und Textformatierung
+.Textformatierunt 
+[cols="1,1,3"]
+|Formatierung |Syntax |fetter Text
+
+|*bold*| `+_italic_+`| kursiver Text
+
