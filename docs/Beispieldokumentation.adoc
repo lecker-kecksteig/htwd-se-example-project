@@ -33,4 +33,5 @@ Dieses Dokument dient im Praktikum als Spielwiese
 |*bold*| `+*bold*+`| fetter Text
 |_italic_ | `+_italic_+`| kursiver Text
 | `monospace` | `+`monospace`+`| text mit fester Laufweite
+|*_bolditalic_*| `+_*bolditalic*_+`| Text mit kombinierter Formatierung
 
