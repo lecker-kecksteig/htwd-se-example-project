@@ -5,17 +5,18 @@ Vorname Nachname <email>
 :toc-title: Inhaltsverzeichnis
 //Platzhalter
 
-== Einführung
 [#Einführung]
+== Einführung
+
 Dieses Dokument dient im Praktikum als Spielwiese 
 
+[#Syntax]
 == Kennenlernen der Syntax
-[#Kennenlernen]
 
 Über die Aufgaben wird das Dokument Stück für Stück aufgebaut und angepasst.
 
-=== Listen
 [#Liste]
+=== Listen
 
 .Beispiel: unsortierte Liste 
 * Platz 1
@@ -27,8 +28,9 @@ Dieses Dokument dient im Praktikum als Spielwiese
 .. Platz 2
 // Platzhalter
 
-=== 1.2 Tabellen und Textformatierung
 [#Tabelle]
+=== 1.2 Tabellen und Textformatierung
+
 .Textformatierung
 [cols="1,1,3"]
 |===
@@ -44,8 +46,9 @@ Dieses Dokument dient im Praktikum als Spielwiese
 == Beispiel Software Engineering
 **S**__o__ftw__a__r__e__ **E**ng__i__n__ee__`ring`
 
-=== 1.3 Quellcode
 [#Quellcode]
+=== 1.3 Quellcode
+
 == _hello_world.c_
 [source,c]
 ----
@@ -59,8 +62,8 @@ int main(int argc, char* argv[])
 ----
 
 :imagesdir: Images
-=== 1.4 Bilder
 [#screenshot]
+=== 1.4 Bilder
 
 [#image1]
 .Screenshots
@@ -68,8 +71,8 @@ image::Unbenannt.PNG[]
 
 === 1.5 Versweise und Links
 
-<<Kennenlernen, Kennenlernen der Syntax>>
-<<screenshot,Abbildung 2, “Screenshot VSCode mit AsciiDoc”>>
+==== Interne Verweise
+* Siehe <<syntax,die Überschrift 'Kennenlernen der Syntax'>> für eine Einführung.
 
 
 
