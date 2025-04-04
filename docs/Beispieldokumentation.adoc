@@ -85,7 +85,7 @@ image::Unbenannt.PNG[]
 .Quellcode: hello_world.c - main()
 [source,c]
 ----
-include::../src/hello_world.c[lines=3..5]
+include::../src/hello_world.c[lines=3..6]
 ----
 
 
