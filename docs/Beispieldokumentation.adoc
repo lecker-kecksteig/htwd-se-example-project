@@ -73,6 +73,7 @@ image::Unbenannt.PNG[]
 
 ==== Verweise auf:
 * Überschrift: <<syntax, Kennenlernen der Syntax>>
+* Tabelle: <<Tabelle, Tabelle 1, "Formatierung von Text">>
 
 
 
