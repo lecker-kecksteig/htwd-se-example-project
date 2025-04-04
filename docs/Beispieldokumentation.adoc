@@ -70,11 +70,13 @@ int main(int argc, char* argv[])
 image::Unbenannt.PNG[]
 
 === 1.5 Versweise und Links
+----
 ==== Verweise auf:
 ** Überschrift: <<syntax, Kennenlernen der Syntax>>
 ** Tabelle: <<Tabelle, Tabelle 1, "Formatierung von Text">>
 ** Quellcode: <<Quellcode, hello_world.c>>
 ** Bild: <<screenshot,  Abbildung 2, “Screenshot VSCode mit AsciiDoc”>>
+----
 
 ==== Links zu:
 ** Praktikumsreihe: https://www.informatik.htw-dresden.de/~zirkelba/praktika/se/arbeiten-mit-git-und-asciidoc/[Arbeiten mit Git und AsciiDoc]
@@ -85,7 +87,7 @@ image::Unbenannt.PNG[]
 .Quellcode: hello_world.c - main()
 [source,c]
 ----
-include::../src/hello_world.c[lines=3..6]
+include::../src/hello_world.c[lines=3..7]
 ----
 
 
