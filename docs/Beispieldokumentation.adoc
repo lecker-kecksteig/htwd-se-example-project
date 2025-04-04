@@ -6,13 +6,16 @@ Vorname Nachname <email>
 //Platzhalter
 
 == Einführung
+[#Einführung]
 Dieses Dokument dient im Praktikum als Spielwiese 
 
 == Kennenlernen der Syntax
+[#Kennenlernen]
 
 Über die Aufgaben wird das Dokument Stück für Stück aufgebaut und angepasst.
 
 === Listen
+[#Liste]
 
 .Beispiel: unsortierte Liste 
 * Platz 1
@@ -25,6 +28,7 @@ Dieses Dokument dient im Praktikum als Spielwiese
 // Platzhalter
 
 === 1.2 Tabellen und Textformatierung
+[#Tabelle]
 .Textformatierung
 [cols="1,1,3"]
 |===
@@ -41,6 +45,7 @@ Dieses Dokument dient im Praktikum als Spielwiese
 **S**__o__ftw__a__r__e__ **E**ng__i__n__ee__`ring`
 
 === 1.3 Quellcode
+[#Quellcode]
 == _hello_world.c_
 [source,c]
 ----
@@ -55,15 +60,16 @@ int main(int argc, char* argv[])
 
 :imagesdir: Images
 === 1.4 Bilder
+[#screenshot]
 
 [#image1]
 .Screenshots
 image::Unbenannt.PNG[]
 
 === 1.5 Versweise und Links
-[#screenshot]
 
-<<screenshot,Editor-Screenshot>>
+
+<<screenshot,Abbildung 2, “Screenshot VSCode mit AsciiDoc”>>
 
 
 
