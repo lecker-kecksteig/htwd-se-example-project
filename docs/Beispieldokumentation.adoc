@@ -71,7 +71,6 @@ image::Unbenannt.PNG[]
 
 === 1.5 Versweise und Links
 
-----
 ==== Verweise auf:
 ** Überschrift: <<syntax, Kennenlernen der Syntax>>
 ** Tabelle: <<Tabelle, Tabelle 1, "Formatierung von Text">>
@@ -81,7 +80,7 @@ image::Unbenannt.PNG[]
 ==== Links zu:
 ** Praktikumsreihe: https://www.informatik.htw-dresden.de/~zirkelba/praktika/se/arbeiten-mit-git-und-asciidoc/[Arbeiten mit Git und AsciiDoc]
 ** https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Syntax Quick Reference]
-----
+
 
 === 1.6 Includes
 
