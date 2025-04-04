@@ -77,6 +77,10 @@ image::Unbenannt.PNG[]
 ** Quellcode: <<Quellcode, hello_world.c>>
 ** Bild: <<screenshot,  Abbildung 2, “Screenshot VSCode mit AsciiDoc”>>
 
+==== Links zu:
+** Praktikumsreihe: https://www.informatik.htw-dresden.de/~zirkelba/praktika/se/arbeiten-mit-git-und-asciidoc/[Arbeiten mit Git und AsciiDoc]
+** https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Syntax Quick Reference]
+
 
 
 
