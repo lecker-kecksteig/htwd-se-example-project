@@ -72,8 +72,11 @@ image::Unbenannt.PNG[]
 === 1.5 Versweise und Links
 
 ==== Verweise auf:
-* Überschrift: <<syntax, Kennenlernen der Syntax>>
-* Tabelle: <<Tabelle, Tabelle 1, "Formatierung von Text">>
+** Überschrift: <<syntax, Kennenlernen der Syntax>>
+** Tabelle: <<Tabelle, Tabelle 1, "Formatierung von Text">>
+** Quellcode: <<Quellcode, hello_world.c>>
+** Bild: <<screenshot,  Abbildung 2, “Screenshot VSCode mit AsciiDoc”>>
+
 
 
 
