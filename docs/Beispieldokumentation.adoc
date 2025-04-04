@@ -71,8 +71,8 @@ image::Unbenannt.PNG[]
 
 === 1.5 Versweise und Links
 
-==== Interne Verweise
-* Siehe <<syntax,die Überschrift 'Kennenlernen der Syntax'>> für eine Einführung.
+==== Verweise auf:
+* Überschrift: <<syntax, Kennenlernen der Syntax>>
 
 
 
