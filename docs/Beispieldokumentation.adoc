@@ -53,12 +53,12 @@ int main(int argc, char* argv[])
 }
 ----
 
-:imagesdir: Images
+:imagesdir: images
 === Bilder
 
 [#image1]
 .Screenshots
-Images::Unbenannt.PNG[]
+images::Unbenannt.PNG[]
 
 
 
